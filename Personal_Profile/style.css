@@ -1,0 +1,38 @@
+body
+{
+  background-color: #e0ffcd;
+  background-image: url(img/200.gif);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+p
+{
+  color: #fd5959;
+  font-family: sans-serif;
+  font-size: 15pt;
+}
+
+p:hover
+{
+  color: #64c4ed;
+}
+
+p.hobbies
+{
+  color: #64c4ed;
+  font-family: sans-serif;
+  font-size: 15pt;
+}
+
+p.hobbies:hover
+{
+  color: #fd5959;
+}
+
+a
+{
+  background-color: #fd5959;
+  color: #64c4ed;
+}
